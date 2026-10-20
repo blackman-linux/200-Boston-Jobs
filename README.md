@@ -143,3 +143,1017 @@ This includes an updated database of available jobs in the Boston, MA area remot
 This repository is a job-search snapshot, not an official listing service. Companies and roles may change or close without notice. Always verify pay, location, visa requirements, and application status on the employer’s site.
 
 
+
+
+
+
+💼 Master Job Opportunities Directory (2026)
+This repository tracking document formats the full dataset of 102 job postings into a GitHub-flavored Markdown structure, complete with key analytics, a strategic application tracker, and direct application links.
+📊 Analytics & KPI Summary
+Metric
+Overview / Breakdown
+Total Tracked Opportunities
+102 Listings
+Primary Domain Tracks
+• Cybersecurity / Security Operations: 42 roles (41%) • Customer Service / Operations: 43 roles (42%) • Web3 / Crypto / Meme Community: 17 roles (17%)
+Location / Mode
+• Remote: 48 listings (47%) • Greater Boston, MA Region: 47 listings (46%) • Other Regional / Flexible: 7 listings (7%)
+Target Review Date
+October 2026
+
+🎯 Strategic Priority Application Tracker
+Top priority listings selected for immediate follow-up based on career trajectory, compensation potential, and strategic alignment:
+#
+Role
+Company
+Track
+Location
+Estimated Pay
+Application Status
+Next Action
+10
+Cyber Product Analyst
+State Street
+Cybersecurity
+Quincy, MA
+$120k–$203k/yr
+⏳ Pending
+Submit Application
+2
+Associate Cybersecurity & Incident Response
+Charles River Associates
+Cybersecurity
+Boston, MA
+$92.5k–$105k/yr + bonus
+⏳ Pending
+Submit Application
+15
+Blockchain Security Expert Intern
+CertiK
+Web3 / Crypto
+Remote
+$6k–$8k/month
+⏳ Pending
+Submit Application
+80
+Associate Cybersecurity Analyst
+Visa / Pismo
+Cybersecurity / FinTech
+Austin, TX
+$88k–$136.9k/yr
+⏳ Pending
+Submit Application
+31
+Client Service — Associate I
+JPMorgan Chase
+Customer Service
+Boston, MA (On-site)
+$74k–$100k/yr
+⏳ Pending
+Submit Application
+52
+Web3 Associate, Customer Support
+Bitpanda
+Customer Service / Web3
+Remote
+$45k–$96k/yr
+⏳ Pending
+Submit Application
+83
+Early Career Cyber Defense Centre Analyst
+State Street
+Cybersecurity / Bank
+Quincy, MA
+$90k–$157.5k/yr
+⏳ Pending
+Submit Application
+
+📋 Full Job Listings Directory (102 Entries)
+#
+Role
+Company
+Track
+Location
+Pay
+Benefits
+Posted
+Application Link
+1
+Junior Cybersecurity Analyst
+Agency Cybersecurity
+Cybersecurity
+Boston, MA (On-site)
+$22.50/hr + OT
+Certifications, training
+Recent
+Apply Here
+2
+Associate Cybersecurity & Incident Response
+Charles River Associates
+Cybersecurity
+Boston, MA
+$92.5k–$105k/yr + bonus
+Full-time benefits
+Oct 2026
+Apply Here
+3
+IT/Cybersecurity/FinTech Examiner I
+Commonwealth of Massachusetts
+Cybersecurity
+Boston, MA
+$66k–$94k/yr
+State benefits
+Recent
+Apply Here
+4
+Cybersecurity Consulting Associate
+Various via LinkedIn
+Cybersecurity
+Boston, MA
+Not listed
+Consulting experience
+Recent
+Apply Here
+5
+Cybersecurity Intern
+Year Up United
+Cybersecurity
+Boston, MA
+Training stipend
+Job training, placement
+Recent
+Apply Here
+6
+IT Security Intern
+Middlesex Savings Bank
+Cybersecurity
+Westborough, MA
+Not listed
+Bank experience
+Recent
+Apply Here
+7
+Cybersecurity Co-op
+Liberty Mutual
+Cybersecurity
+Boston, MA
+Co-op pay
+Insurance benefits
+Recent
+Apply Here
+8
+Information Security Analyst
+Leader Bank
+Cybersecurity
+Arlington, MA
+$80k–$100k/yr
+Bank benefits
+Recent
+Apply Here
+9
+PAM Analyst
+Bank of America
+Cybersecurity
+Boston, MA
+$78k–$138k/yr
+Full benefits
+Recent
+Apply Here
+10
+Cyber Product Analyst
+State Street
+Cybersecurity
+Quincy, MA
+$120k–$203k/yr
+Full benefits
+Recent
+Apply Here
+11
+Security Analyst II
+Boston University
+Cybersecurity
+Boston, MA
+$59k–$89k/yr
+University benefits
+Recent
+Apply Here
+12
+Information Security Officer
+Dice listing
+Cybersecurity
+Boston, MA
+Not listed
+Full-time
+Recent
+Apply Here
+13
+CSOC Analyst — Tier 3
+First Citizens Bank
+Cybersecurity
+Boston, MA
+Not listed
+Bank benefits
+Recent
+Apply Here
+14
+IT Security Consultant
+Dice listing
+Cybersecurity
+Boston, MA
+Not listed
+Consulting
+Recent
+Apply Here
+15
+Blockchain Security Expert Intern
+CertiK
+Cybersecurity / Crypto
+Remote
+$6k–$8k/month
+Medical, 401(k), HSA, FSA
+Oct 2026
+Apply Here
+16
+Cybersecurity Internship
+Galaxy
+Cybersecurity / Crypto
+Remote
+$55/hr
+Crypto exposure
+Aug 2026
+Apply Here
+17
+Security Engineer Intern
+DV Trading
+Cybersecurity / Crypto
+Remote
+Not listed
+Trading firm experience
+Recent
+Apply Here
+18
+Junior Blockchain Security Engineer
+Indeed listing
+Cybersecurity / Crypto
+Remote
+Not listed
+Flexible schedules
+Oct 2026
+Apply Here
+19
+Blockchain Security Intern
+CertiK
+Cybersecurity / Crypto
+Remote
+$6k–$8k/mo
+Full benefits
+Sep 2026
+Apply Here
+20
+Entry-Level Crypto Market Specialist
+APEX TRADE
+Crypto
+Remote
+Training provided
+Crypto market training
+Jul 2026
+Apply Here
+21
+Cybersecurity Trainee
+Built In listing
+Cybersecurity
+Remote
+Mentorship
+Remote trainee role
+Recent
+Apply Here
+22
+Cloud Technical Support Engineer Co-op
+Built In listing
+Cybersecurity
+Remote
+Co-op pay
+Healthtech exposure
+Recent
+Apply Here
+23
+Cybersecurity Design Trainee
+Built In listing
+Cybersecurity
+Remote
+Mentorship
+Design + security
+Recent
+Apply Here
+24
+Security Engineer Intern
+MasonBlue Security
+Cybersecurity
+Remote
+Not listed
+Entry-level security
+Aug 2026
+Apply Here
+25
+Cyber Security Analyst
+World Business Lenders
+Cybersecurity
+Remote
+Not listed
+Remote work
+Oct 2026
+Apply Here
+26
+Apprentice Cybersecurity Analyst
+Placements24
+Cybersecurity
+Remote
+Training
+Path to full-time
+Recent
+Apply Here
+27
+Cybersecurity GRC Associate
+Fynetra
+Cybersecurity
+Boston, MA (Hybrid)
+Not listed
+Hybrid flexibility
+8 days ago
+Apply Here
+28
+Fund Accountant — Client Service Rep
+Techlink Systems
+Customer Service
+Boston, MA (Hybrid)
+$24/hr
+Medical, Dental, Vision
+Oct 2026
+Apply Here
+29
+Client Service Representative
+The Hollister Group
+Customer Service
+Boston, MA
+$21/hr
+Contract-to-hire
+Recent
+Apply Here
+30
+Client Support Associate
+FDM Group
+Customer Service
+Boston, MA
+Not listed
+Coaching, mentorship
+Oct 2026
+Apply Here
+31
+Client Service — Associate I
+JPMorgan Chase
+Customer Service
+Boston, MA (On-site)
+$74k–$100k/yr
+Medical, Retirement
+Recent
+Apply Here
+32
+Client Service Associate
+Oppenheimer & Co.
+Customer Service
+Boston, MA
+$50k–$55k/yr
+Discretionary bonus
+Oct 2026
+Apply Here
+33
+Client Associate
+UBS
+Customer Service
+Boston, MA
+$55k–$75k/yr
+Developmental role
+Oct 2026
+Apply Here
+34
+Registered Client Service Associate
+Morgan Stanley
+Customer Service
+Boston, MA
+$15–$43.27/hr
+Full-time
+Recent
+Apply Here
+35
+Client Relationship Analyst
+Morgan Stanley
+Customer Service
+Boston, MA
+$34k–$90k/yr
+Full benefits
+May 2026
+Apply Here
+36
+Entry Level Financial Client Service Rep
+HireTalent
+Customer Service
+Boston, MA
+Not listed
+Finance experience
+May 2026
+Apply Here
+37
+GSS Client Representative
+Franklin Templeton / Putnam
+Customer Service
+Boston, MA
+$42k–$44k/yr
+Full benefits
+May 2026
+Apply Here
+38
+Client Support Specialist
+Zelis
+Customer Service
+Boston, MA
+$20–$26/hr
+In-office/remote
+Aug 2026
+Apply Here
+39
+Customer Relationship Advocate
+Fidelity Investments
+Customer Service
+Boston, MA
+Not listed
+Financial services
+Recent
+Apply Here
+40
+Client Service Representative
+SimplyHired listing
+Customer Service
+Boston, MA
+$20–$21/hr
+3–6 month contract
+Sep 2026
+Apply Here
+41
+Production Support Rep
+Built In listing
+Customer Service
+Boston, MA
+Not listed
+Early-career path
+Oct 2026
+Apply Here
+42
+Payment Experience Associate
+Built In listing
+Customer Service
+Boston, MA
+Not listed
+Multilingual support
+Oct 2026
+Apply Here
+43
+Associate Customer Support — Live Chat
+Swell Network / Bitpanda
+Customer Service / Crypto
+Boston, MA
+Not listed
+Fintech career kickstart
+May 2026
+Apply Here
+44
+Junior Client Service Representative
+LinkedIn listing
+Customer Service
+Boston, MA (Hybrid)
+$24/hr
+3 days in office
+Jun 2026
+Apply Here
+45
+Sales Trading Desk Support
+Jefferies
+Customer Service
+Boston, MA
+$80k–$100k/yr
+Junior-level support
+May 2026
+Apply Here
+46
+Registered Wealth Management Client Associate
+Bank of America
+Customer Service
+Boston, MA
+$25–$45/hr
+Bank benefits
+Jul 2026
+Apply Here
+47
+Entry-Level Financial Advisor
+NYL
+Customer Service
+Bridgewater, MA
+$80k–$100k/yr
+Advisor training
+Jul 2026
+Apply Here
+48
+Operations Services Expert
+Forward Financing
+Customer Service
+Remote (US)
+Not listed
+Fintech support
+Jan 2026
+Apply Here
+49
+Junior Customer Experience Associate
+Streamflow
+Customer Service / Crypto
+Remote
+$1,400+/month
+Web3 exposure
+Oct 2026
+Apply Here
+50
+Community Support Associate
+Orca
+Customer Service / Crypto
+Remote
+$10k–$20k/yr + tokens
+Home office, wellness stipend
+Oct 2026
+Apply Here
+51
+Customer Service Representative
+Ether.fi
+Customer Service / Crypto
+Remote
+$17.50–$23.75/hr
+Medical, Dental, Vision, tokens
+Oct 2026
+Apply Here
+52
+Web3 Associate, Customer Support
+Bitpanda
+Customer Service / Crypto
+Remote
+$45k–$96k/yr
+Stock options, 25 days WFA
+Sep 2026
+Apply Here
+53
+Jr. Customer Service Officer
+BTSE
+Customer Service / Crypto
+Remote
+Not listed
+Crypto exchange support
+Oct 2026
+Apply Here
+54
+Customer Service Representative
+PrimeXBT
+Customer Service / Crypto
+Remote
+Competitive + bonus
+Medical after probation
+Sep 2026
+Apply Here
+55
+Customer Experience Specialist
+MyPrize
+Customer Service / Crypto
+Remote
+Not listed
+Ticketing, live chat
+May 2026
+Apply Here
+56
+Customer Success Manager — Ethena Pay
+Ethena Labs
+Customer Service / Crypto
+Remote
+Not listed
+Player-coach role
+Oct 2026
+Apply Here
+57
+Technical Customer Support Specialist
+Trust Wallet
+Customer Service / Crypto
+Remote
+Not listed
+Flexible hours
+Apr 2026
+Apply Here
+58
+Customer Support Executive
+Built In listing
+Customer Service / Crypto
+Remote
+Not listed
+Crypto finance support
+Mar 2026
+Apply Here
+59
+Junior Customer Onboarding Specialist
+Decentralized Masters
+Customer Service / Crypto
+Remote
+Not listed
+Fully remote
+Sep 2026
+Apply Here
+60
+Client Operations Associate
+River
+Customer Service / Crypto
+Remote
+$63k–$70k/yr
+Full-time
+Sep 2026
+Apply Here
+61
+Memecoin Community Manager & Trading Mentor
+CLOUDINNOVATE TECHNOLOGY
+Community / Meme
+Remote
+Not listed
+Freelance, meme expertise
+Sep 2026
+Apply Here
+62
+Crypto Meme Community Operator
+HackQuest
+Community / Meme
+Remote
+$500–$1k
+Meme culture, Web3 trends
+Oct 2026
+Apply Here
+63
+Social Media Manager — Meme focus
+TOVEST
+Community / Meme
+Remote
+$500–$1k/mo
+Meme interaction
+Oct 2026
+Apply Here
+64
+Community Manager — Memecoin
+MEXC
+Community / Meme
+Remote
+$1k–$2k/mo
+Community growth
+Recent
+Apply Here
+65
+Web3 Telegram Community Manager
+CLOWN Token
+Community / Meme
+Remote
+$15–$30/hr
+Telegram management
+Sep 2026
+Apply Here
+66
+Crypto Community Manager & Graphic Designer
+Upwork client
+Community / Meme
+Remote
+$10/hr
+Meme culture, design
+Sep 2026
+Apply Here
+67
+Community Manager — Memecoin
+Meme Arena
+Community / Meme
+Remote
+Contract
+Solana, meme passion
+Recent
+Apply Here
+68
+Memecoin Community Manager
+Various via Glints
+Community / Meme
+Remote
+Freelance rates
+Memecoin expertise
+Aug 2026
+Apply Here
+69
+Customer Support / Experience
+Coinbase
+Customer Service / Crypto
+Remote
+~$86k–$95k
+Full benefits
+Rolling
+Apply Here
+70
+Customer Support / Experience
+Kraken
+Customer Service / Crypto
+Remote
+~$86k–$95k
+Full benefits
+Rolling
+Apply Here
+71
+Customer Support / Experience
+Gemini
+Customer Service / Crypto
+Remote
+~$86k–$95k
+Full benefits
+Rolling
+Apply Here
+72
+Customer Support / Experience
+Binance
+Customer Service / Crypto
+Remote
+~$86k–$95k
+Full benefits
+Rolling
+Apply Here
+73
+Customer Support / Experience
+OKX
+Customer Service / Crypto
+Remote
+~$86k–$95k
+Full benefits
+Rolling
+Apply Here
+74
+Client Service Associate
+CoinFlip
+Customer Service / Crypto
+Alton Bay, NH
+Not listed
+Digital currency
+Recent
+Apply Here
+75
+Customer Service Rep
+Venmo
+Customer Service / Fintech
+Suwanee, GA
+$15/hr
+Full-time benefits
+Recent
+Apply Here
+76
+Customer Success Associate
+Figure
+Customer Service / Fintech
+Charlotte, NC
+Up to $71k/yr
+No fintech exp required
+Recent
+Apply Here
+77
+Customer Experience Associate — New Grad
+Robinhood
+Customer Service / Fintech
+Denver, CO / Westlake, TX
+Not listed
+New grad friendly
+Recent
+Apply Here
+78
+Entry-Level FinTech Support Associate
+General Catalyst portfolio
+Customer Service / Fintech
+Not specified
+$17–$18/hr
+Flexible shifts
+Recent
+Apply Here
+79
+SOC Analyst I
+COCC
+Cybersecurity / Fintech
+Not specified
+Not listed
+Security monitoring
+Recent
+Apply Here
+80
+Associate Cybersecurity Analyst
+Visa / Pismo
+Cybersecurity / Fintech
+Austin, TX
+$88k–$136.9k/yr
+Full benefits
+Recent
+Apply Here
+81
+Information Security Intern
+Hilltop Holdings
+Cybersecurity / Fintech
+Not specified
+Internship pay
+Monitoring, triage
+Recent
+Apply Here
+82
+Cybersecurity Engineering Associate
+Wells Fargo
+Cybersecurity / Bank
+Not specified
+Rotational program
+Full-time
+Recent
+Apply Here
+83
+Early Career Cyber Defense Centre Analyst
+State Street
+Cybersecurity / Bank
+Quincy, MA
+$90k–$157.5k/yr
+Shift work
+Recent
+Apply Here
+84
+Information Systems Security Summer Analyst
+Crédit Agricole CIB
+Cybersecurity / Bank
+Not specified
+$33/hr
+10-week internship
+Recent
+Apply Here
+85
+Client Service Associate
+Morgan Stanley
+Customer Service / Bank
+Syracuse, NY
+$16–$40.87/hr
+Registered role
+Recent
+Apply Here
+86
+Crypto Customer Support
+Crypto.com
+Customer Service / Crypto
+Remote
+Not listed
+Global support
+Rolling
+Apply Here
+87
+Customer Support Specialist
+Blockchain.com
+Customer Service / Crypto
+Remote
+Not listed
+Wallet support
+Rolling
+Apply Here
+88
+Client Support Analyst
+Chainlink Labs
+Customer Service / Crypto
+Remote
+Not listed
+Oracle support
+Rolling
+Apply Here
+89
+Community Manager
+Uniswap Labs
+Community / Crypto
+Remote
+Not listed
+DeFi community
+Rolling
+Apply Here
+90
+Support Engineer
+ConsenSys
+Customer Service / Crypto
+Remote
+Not listed
+MetaMask support
+Rolling
+Apply Here
+91
+Customer Success Associate
+Fireblocks
+Customer Service / Crypto
+Remote
+Not listed
+Digital asset security
+Rolling
+Apply Here
+92
+Client Services Associate
+Talos
+Customer Service / Crypto
+Remote
+Not listed
+Trading platform
+Rolling
+Apply Here
+93
+Customer Support Representative
+BitPay
+Customer Service / Crypto
+Remote
+Not listed
+Crypto payments
+Rolling
+Apply Here
+94
+Junior Security Analyst
+BitGo
+Cybersecurity / Crypto
+Remote
+Not listed
+Custody security
+Rolling
+Apply Here
+95
+Cybersecurity Intern
+Circle
+Cybersecurity / Crypto
+Remote
+Internship pay
+USDC security
+Rolling
+Apply Here
+96
+Security Operations Intern
+Sky Mavis
+Cybersecurity / Crypto
+Remote
+Internship pay
+Web3 gaming
+Recent
+Apply Here
+97
+Graduate Software Engineer — Blockchain
+BIT Official
+Cybersecurity / Crypto
+California
+Not listed
+Entry-level
+Recent
+Apply Here
+98
+Binance Accelerator — DevSecOps
+Binance
+Cybersecurity / Crypto
+Remote
+Not listed
+AWS security
+Rolling
+Apply Here
+99
+Blockchain Security Analyst
+CertiK
+Cybersecurity / Crypto
+Remote
+Not listed
+Smart contract audit
+Rolling
+Apply Here
+100
+Security Engineer
+Relay Financial
+Cybersecurity / Fintech
+Remote
+Not listed
+Purple team
+Recent
+Apply Here
+101
+IT Auditor
+Wolf & Company
+Cybersecurity / Audit
+Boston, MA
+$70k/yr
+Advisory role
+Recent
+Apply Here
+102
+Apprentice Cybersecurity Analyst
+Placements24
+Cybersecurity
+Remote
+Training
+Path to full-time
+Recent
+Apply Here
+
